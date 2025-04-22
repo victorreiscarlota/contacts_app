@@ -8,7 +8,7 @@
 build/
 flutter_*/ 
 
-/assets/
+
 
 **/android/key.properties
 **/android/local.properties
